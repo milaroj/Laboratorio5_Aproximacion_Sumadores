@@ -1,0 +1,19 @@
+# Directorio generado por setup.sh — no se versiona
+hdl/
+
+# Repositorio temporal de clonado
+evoapproxlib_tmp/
+
+# Reportes de Vivado generados por los scripts
+reports/
+*.log
+
+# Archivo CSV generado
+results.csv
+
+# Archivos de proyecto Vivado
+*.xpr
+*.jou
+*.str
+vivado*/
+.Xil/
