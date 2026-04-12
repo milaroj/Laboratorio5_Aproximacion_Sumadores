@@ -59,3 +59,9 @@ Los resultados de síntesis se encuentran en `results.csv` con las columnas:
 - `design`: nombre del archivo `.v`
 - `slice_luts`: LUTs utilizados
 - `slice_registers`: Registros utilizados
+
+---
+## Uso de Inteligencia Artificial
+La documentación completa sobre el uso de IA que incluye prompts utilizados, se encuentra en el siguiente documento de Overleaf:
+
+[Ver nota de uso de IA](https://www.overleaf.com/3369264142dfgvypzpmgtb#9ef11bi)
